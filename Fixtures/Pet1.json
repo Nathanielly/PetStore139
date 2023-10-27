@@ -1,0 +1,18 @@
+{
+    "id": 1153178,
+    "category": {
+      "id": 1,
+      "name": "Dog"
+    },
+    "name": "Anddy",
+    "photoUrls": [
+      ""
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "vacinado"
+      }
+    ],
+    "status": "available"
+  }
